@@ -7,9 +7,9 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-  sentences,
-  sentences_2,
-  sentences_3
+  'sentences',
+  'sentences_2',
+  'sentences_3'
 };
 
 function status(statusText) {
