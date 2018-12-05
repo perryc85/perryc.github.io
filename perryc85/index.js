@@ -7,7 +7,9 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-    sentences, sentences_2, sentences_3
+    "the_night_land" : sentences, 
+    "borderland" : sentences_2, 
+    "boats" : sentences_3
 };
 
 function status(statusText) {
