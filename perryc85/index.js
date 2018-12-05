@@ -7,9 +7,7 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-    line_1 : 'sentences',
-    borderland : 'sentences_2',
-    boats : 'sentences_3'
+    'Sentence_1' : 'sentences'
 };
 
 function status(statusText) {
