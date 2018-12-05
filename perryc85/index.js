@@ -7,7 +7,17 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-    'Sentence_1' : 'sentences'
+    'sample_sentence_1': 'This to be Love, that your spirit to live in a natural holiness with
+the Beloved, and your bodies to be a sweet and natural delight that
+shall be never lost of a lovely mystery.'
+
+    'sample_sentence_2' : 'This to be Love, that your spirit to live in a natural holiness with
+the Beloved, and your bodies to be a sweet and natural delight that
+shall be never lost of a lovely mystery!'
+
+    'sample_sentence_3' : 'Being an account of their Adventures in the Strange places of the Earth,
+after the foundering of the good ship _Glen Carrig_ through striking upon
+a hidden rock in the unknown seas to the Southward.'
 };
 
 function status(statusText) {
