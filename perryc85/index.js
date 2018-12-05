@@ -7,7 +7,7 @@ const HOSTED_URLS = {
 };
 
 const examples = {
-    "the_night_land" : line_1,
+    "line_1" : sentences,
     "borderland" : sentences_2,
     "boats" : sentences_3
 };
