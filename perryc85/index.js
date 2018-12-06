@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "His to be Love, that your spirit to live in a natural holiness.",
+      'His to be Love, that your spirit to live in a natural holiness.',
   'example2':
-      "And the glisten Of tears 'round the moon.",
+      'And the glisten Of tears 'round the moon.',
   'example3':
-      "Hast scarcely lost its deep old."      
+      'Hast scarcely lost its deep old.'      
 };
 
 function status(statusText) {
