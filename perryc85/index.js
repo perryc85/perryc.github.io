@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'And the glisten Of tears 'round the moon.',
   'example3':
-      'Hast scarcely lost its deep old.'        
+      'Hast scarcely lost its deep old.'      
 };
 
 function status(statusText) {
